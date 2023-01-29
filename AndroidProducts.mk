@@ -5,4 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_RMX1971.mk
+    $(LOCAL_DIR)/octavi_RMX1971.mk
+
+COMMON_LUNCH_CHOICES := \
+    octavi_RMX1971-user \
+    octavi_RMX1971-userdebug \
+    octavi_RMX1971-eng
