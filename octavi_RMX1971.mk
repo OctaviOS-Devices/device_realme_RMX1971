@@ -39,4 +39,4 @@ OCTAVI_BUILD_TYPE := Official
 OCTAVI_MAINTAINER := KSSRAO
 
 # Gapps Build
-WITH_GMS := true
+WITH_GAPPS := true
